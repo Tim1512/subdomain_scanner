@@ -239,7 +239,7 @@ Output = {3}
     for i in valid:
         hname = i.replace('http://', '')
         try:
-            wa = whois.whois(hname)
+            w = whois.whois(hname)
             country = w.country
         except Exception:
             country = '?'
