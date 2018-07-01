@@ -1,3 +1,17 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+"""
+Script Created By:
+	Cr4sHCoD3
+Copyrights:
+	Cr4sHCoD3 2018
+Special Mentions:
+	PureHackers PH
+	Blood Security Hackers
+"""
+
+
+
 import os
 import sys
 import platform
