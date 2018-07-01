@@ -54,7 +54,7 @@ o--o  o--o o-o   o-o o-o o o o o-o-| o  o     o--o   o-o o-o-o  o o  o o-o o
 Created By: Cr4sHCoD3 [ PureHackers | Blood Security Hackers ]
 Github: https://github.com/cr4shcod3
     """)
-    print ('[!] - Module (python-whois) not installed!\n[!] - Module (futures) not installed!')
+    print ('[!] - Module (python-whois) not installed!\n[!] - Module (future) not installed!')
     sys.exit()
 
 
