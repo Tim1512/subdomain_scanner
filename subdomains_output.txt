@@ -1,0 +1,354 @@
+Sunday: July 01, 2018 = 10:08:46
+URL: https://google.com
+Subdomains:
+Response Code:
+  400:
+  401:
+  403:
+  404:
+  500:
+  502:
+  503:
+  504:
+
+
+Sunday: July 01, 2018 = 10:13:59
+URL: http://google.com
+Subdomains:
+  1. http://www.google.com
+  2. http://images.google.com
+  3. http://ipv4.google.com
+  4. http://wap.google.com
+  5. http://video.google.com
+Response Code:
+  400:
+  401:
+  403:
+  404:
+    1. http://web.google.com
+    2. http://email.google.com
+    3. http://api.google.com
+    4. http://download.google.com
+    5. http://relay.google.com
+    6. http://sms.google.com
+  500:
+  502:
+  503:
+  504:
+
+
+Sunday: July 01, 2018 = 10:38:15
+URL: http://google.com
+Subdomains:
+  1. http://www.google.com
+  2. http://images.google.com
+  3. http://ipv4.google.com
+  4. http://wap.google.com
+  5. http://video.google.com
+  6. http://search.google.com
+  7. http://dns.google.com
+  8. http://m.google.com
+  9. http://apps.google.com
+  10. http://mobile.google.com
+  11. http://store.google.com
+  12. http://blog.google.com
+  13. http://support.google.com
+  14. http://mail.google.com
+  15. http://chat.google.com
+  16. http://calendar.google.com
+  17. http://docs.google.com
+  18. http://sites.google.com
+  19. http://news.google.com
+  20. http://admin.google.com
+Response Code:
+  400:
+  401:
+  403:
+  404:
+    1. http://web.google.com
+    2. http://email.google.com
+    3. http://api.google.com
+    4. http://download.google.com
+    5. http://relay.google.com
+    6. http://sms.google.com
+    7. http://ads.google.com
+  500:
+  502:
+  503:
+  504:
+
+
+Sunday: July 01, 2018 = 10:54:00
+URL: http://mykonosprive.com
+Subdomains:
+  1. http://ftp.mykonosprive.com
+  2. http://smtp.mykonosprive.com
+  3. http://mail.mykonosprive.com
+  4. http://autoconfig.mykonosprive.com
+  5. http://localhost.mykonosprive.com
+  6. http://www.mykonosprive.com
+Response Code:
+  400:
+  401:
+    1. http://webmail.mykonosprive.com
+    2. http://cpanel.mykonosprive.com
+    3. http://whm.mykonosprive.com
+  403:
+  404:
+    1. http://docs.mykonosprive.com
+    2. http://calendar.mykonosprive.com
+    3. http://sites.mykonosprive.com
+    4. http://autodiscover.mykonosprive.com
+  500:
+  502:
+  503:
+    1. http://webdisk.mykonosprive.com
+  504:
+
+
+Sunday: July 01, 2018 = 10:54:58
+URL: http://mykonosprive.com
+Subdomains:
+Response Code:
+  400:
+  401:
+  403:
+  404:
+  500:
+  502:
+  503:
+  504:
+
+
+Sunday: July 01, 2018 = 10:57:41
+URL: http://google.com
+Subdomains:
+  1. http://www.google.com
+  2. http://images.google.com
+  3. http://ipv4.google.com
+  4. http://video.google.com
+  5. http://wap.google.com
+  6. http://search.google.com
+  7. http://dns.google.com
+  8. http://m.google.com
+  9. http://apps.google.com
+  10. http://mobile.google.com
+  11. http://store.google.com
+  12. http://support.google.com
+  13. http://blog.google.com
+  14. http://calendar.google.com
+  15. http://mail.google.com
+  16. http://sites.google.com
+  17. http://docs.google.com
+  18. http://news.google.com
+  19. http://chat.google.com
+  20. http://admin.google.com
+Response Code:
+  400:
+  401:
+  403:
+  404:
+    1. http://web.google.com
+    2. http://email.google.com
+    3. http://api.google.com
+    4. http://download.google.com
+    5. http://relay.google.com
+    6. http://sms.google.com
+    7. http://ads.google.com
+  500:
+  502:
+  503:
+  504:
+
+
+Sunday: July 01, 2018 = 11:09:32
+URL: http://google.com
+Subdomains:
+  1. http://www.google.com
+  2. http://images.google.com
+  3. http://ipv4.google.com
+  4. http://video.google.com
+  5. http://wap.google.com
+  6. http://search.google.com
+  7. http://mobile.google.com
+  8. http://dns.google.com
+  9. http://apps.google.com
+  10. http://m.google.com
+  11. http://store.google.com
+  12. http://support.google.com
+  13. http://blog.google.com
+  14. http://calendar.google.com
+  15. http://mail.google.com
+  16. http://sites.google.com
+  17. http://docs.google.com
+  18. http://news.google.com
+  19. http://chat.google.com
+  20. http://admin.google.com
+Response Code:
+  400:
+  401:
+  403:
+  404:
+    1. http://web.google.com
+    2. http://email.google.com
+    3. http://api.google.com
+    4. http://download.google.com
+    5. http://relay.google.com
+    6. http://sms.google.com
+    7. http://ads.google.com
+  500:
+  502:
+  503:
+  504:
+
+
+Sunday: July 01, 2018 = 11:10:57
+URL: http://google.com
+Subdomains:
+  1. http://www.google.com
+  2. http://images.google.com
+  3. http://ipv4.google.com
+  4. http://wap.google.com
+  5. http://video.google.com
+  6. http://search.google.com
+  7. http://dns.google.com
+  8. http://m.google.com
+  9. http://mobile.google.com
+  10. http://apps.google.com
+  11. http://support.google.com
+  12. http://store.google.com
+  13. http://blog.google.com
+  14. http://mail.google.com
+  15. http://chat.google.com
+  16. http://docs.google.com
+  17. http://calendar.google.com
+  18. http://sites.google.com
+  19. http://news.google.com
+  20. http://admin.google.com
+Response Code:
+  400:
+  401:
+  403:
+  404:
+    1. http://web.google.com
+    2. http://email.google.com
+    3. http://api.google.com
+    4. http://download.google.com
+    5. http://relay.google.com
+    6. http://sms.google.com
+    7. http://ads.google.com
+  500:
+  502:
+  503:
+  504:
+
+
+Sunday: July 01, 2018 = 11:12:14
+URL: http://mykonosprive.com
+Subdomains:
+  1. http://ftp.mykonosprive.com
+  2. http://mail.mykonosprive.com
+  3. http://smtp.mykonosprive.com
+  4. http://autoconfig.mykonosprive.com
+  5. http://localhost.mykonosprive.com
+  6. http://www.mykonosprive.com
+Response Code:
+  400:
+  401:
+    1. http://webmail.mykonosprive.com
+    2. http://cpanel.mykonosprive.com
+    3. http://whm.mykonosprive.com
+  403:
+  404:
+    1. http://docs.mykonosprive.com
+    2. http://calendar.mykonosprive.com
+    3. http://sites.mykonosprive.com
+    4. http://autodiscover.mykonosprive.com
+  500:
+  502:
+  503:
+    1. http://webdisk.mykonosprive.com
+  504:
+
+
+Sunday: July 01, 2018 = 11:13:09
+URL: http://shinobisec.pro
+Subdomains:
+Response Code:
+  400:
+  401:
+  403:
+  404:
+  500:
+  502:
+  503:
+    1. http://mail.shinobisec.pro
+    2. http://www.shinobisec.pro
+    3. http://webmail.shinobisec.pro
+    4. http://webdisk.shinobisec.pro
+    5. http://cpanel.shinobisec.pro
+    6. http://whm.shinobisec.pro
+  504:
+
+
+Sunday: July 01, 2018 = 11:19:39
+URL: http://shinobisec.pro
+Subdomains:
+Response Code:
+  400:
+  401:
+  403:
+  404:
+  500:
+  502:
+  503:
+    1. http://www.shinobisec.pro
+    2. http://mail.shinobisec.pro
+    3. http://webmail.shinobisec.pro
+    4. http://webdisk.shinobisec.pro
+    5. http://cpanel.shinobisec.pro
+    6. http://whm.shinobisec.pro
+  504:
+
+
+Sunday: July 01, 2018 = 11:40:21
+URL: http://google.com
+Subdomains:
+  1. http://www.google.com
+  2. http://images.google.com
+  3. http://ipv4.google.com
+  4. http://video.google.com
+  5. http://wap.google.com
+  6. http://search.google.com
+  7. http://m.google.com
+  8. http://dns.google.com
+  9. http://apps.google.com
+  10. http://support.google.com
+  11. http://blog.google.com
+  12. http://store.google.com
+  13. http://mobile.google.com
+  14. http://mail.google.com
+  15. http://docs.google.com
+  16. http://sites.google.com
+  17. http://calendar.google.com
+  18. http://news.google.com
+  19. http://chat.google.com
+  20. http://admin.google.com
+Response Code:
+  400:
+  401:
+  403:
+  404:
+    1. http://web.google.com
+    2. http://email.google.com
+    3. http://api.google.com
+    4. http://download.google.com
+    5. http://relay.google.com
+    6. http://sms.google.com
+    7. http://ads.google.com
+  500:
+  502:
+  503:
+  504:
+
+
