@@ -446,7 +446,7 @@ if __name__ == '__main__':
     if args.output == output:
         output_file = open(output, 'a+')
     elif args.output != output:
-        if '.txt' in args.output:
+        if '.txt' not in args.output:
             args.output = args.output + '.txt'
         output_file = open(args.output, 'a+')
     main()
