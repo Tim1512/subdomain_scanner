@@ -1,4 +1,4 @@
-# Subdomain Scanner ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg) - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) - [![HitCount](http://hits.dwyl.io/cr4shcod3/subdomain_scanner.svg)](http://hits.dwyl.io/cr4shcod3/subdomain_scanner)
+# Subdomain Scanner ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg) - [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) - [![HitCount](http://hits.dwyl.io/cr4shcod3/subdomain_scanner.svg)](http://hits.dwyl.io/cr4shcod3/subdomain_scanner)
 
 > Subdomain Scanner is a python tool designed to enumerate subdomains on a target domain through a wordlist.
 
