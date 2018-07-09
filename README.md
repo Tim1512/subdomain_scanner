@@ -114,7 +114,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Authors
-* [Cr4sHCoD3](https://www.facebook.com/EdwardKevinTorvalds) - Subdomain Scanner
+* [Cr4sHCoD3](https://www.facebook.com/cr4shcod3.py) - Subdomain Scanner
 
 ## License
 MIT License
